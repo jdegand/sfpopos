@@ -1,0 +1,24 @@
+.Title {
+  box-sizing: border-box;
+  display: grid;
+  justify-content: center;
+  align-items: baseline;
+  margin: 3em;
+  border: 2px solid;
+  padding: 3em;
+}
+
+.Links {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: center;
+  margin-top: 1em;
+  gap:0;
+}
+
+@media(max-width: 800px){
+  .Links{
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+}

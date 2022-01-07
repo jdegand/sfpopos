@@ -1,0 +1,9 @@
+.About {
+    padding: 3em;
+}
+
+@media(min-width: 1000px){
+    .About {
+        padding: 3em 20em;
+    }
+}
