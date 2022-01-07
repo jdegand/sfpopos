@@ -16,6 +16,8 @@
 
 MakeSchool was a coding bootcamp that went under.  Most content was made free and I found this and decided to follow along.
 
+[Live Link](https://jdegand.github.io/sfpopos/)
+
 ![](./sfpopos-homepage.png)
 ![](./sfpopos-about-page.png)
 ![](./sfpopos-search.png)
